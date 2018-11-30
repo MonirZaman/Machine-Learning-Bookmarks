@@ -9,3 +9,5 @@
 ## Bayesian methods
 * [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 
+## Neural network architecture and its applications
+* [ML using Electronic Health Records] (https://code.fb.com/ml-applications/under-the-hood-facebook-marketplace-powered-by-artificial-intelligence/)
