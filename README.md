@@ -1,4 +1,4 @@
-# Machine-Learning-Bookmarks
+# Machine Learning Reading
 I am a keen reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
 ## Supervised learning
