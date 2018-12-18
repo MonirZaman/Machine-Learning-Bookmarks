@@ -7,6 +7,8 @@ I am a keen reader of machine learning blogs and literatures. This page contains
 
 ## Graph-based Machine learning
 * [The Unreasonable Effectiveness of Structure](https://www.youtube.com/watch?v=t4k5LKCpboc)
+* [Object2Vec embedding using SageMaker](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
+* [BERT](https://jalammar.github.io/illustrated-bert/)
 
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
@@ -17,3 +19,6 @@ I am a keen reader of machine learning blogs and literatures. This page contains
 
 ## Neural network architecture and its applications
 * [ML using Electronic Health Records](https://goku.me/blog/EHR)
+
+## Generative Adversarial Network (GAN)
+* [BigGAN playground](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)
