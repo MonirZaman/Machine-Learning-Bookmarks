@@ -1,5 +1,5 @@
 # Machine Learning Reading
-I am a keen reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
+I am an avid reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
 ## Supervised learning
 * [Multi-task learning](https://medium.com/huggingface/beating-the-state-of-the-art-in-nlp-with-hmtl-b4e1d5c3faf) 
@@ -13,6 +13,11 @@ I am a keen reader of machine learning blogs and literatures. This page contains
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
+
+## Interpretation of ML Model Output
+* [DeepLIFT](https://github.com/kundajelab/deeplift)
+* [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
+* Shapley
 
 ## Bayesian methods
 * [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
