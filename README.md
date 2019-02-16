@@ -8,6 +8,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## Graph-based Machine learning
 * [The Unreasonable Effectiveness of Structure](https://www.youtube.com/watch?v=t4k5LKCpboc)
 * [Object2Vec embedding using SageMaker](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
+* [GraphSage](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
+
+## NLP
 * [BERT](https://jalammar.github.io/illustrated-bert/)
 
 ## Time series
