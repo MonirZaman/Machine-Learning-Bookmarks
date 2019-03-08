@@ -17,6 +17,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
 
+## Model diagnosis
+* [Uber Manifold](https://eng.uber.com/manifold/)
+
 ## Interpretation of ML Model Output
 * [DeepLIFT](https://github.com/kundajelab/deeplift)
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
