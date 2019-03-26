@@ -12,6 +12,8 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 
 ## NLP
 * [BERT](https://jalammar.github.io/illustrated-bert/)
+* [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
+* [Transformer] (https://towardsdatascience.com/transformers-141e32e69591)
 
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
