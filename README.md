@@ -13,7 +13,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## NLP
 * [BERT](https://jalammar.github.io/illustrated-bert/)
 * [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
-* [Transformer] (https://towardsdatascience.com/transformers-141e32e69591)
+* [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
 
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
@@ -24,6 +24,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 
 ## Interpretation of ML Model Output
 * [DeepLIFT](https://github.com/kundajelab/deeplift)
+* [PDP and LIME](https://towardsdatascience.com/interpretable-ai-or-how-i-learned-to-stop-worrying-and-trust-ai-e61f9e8ee2c2)
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
 * Shapley
 
