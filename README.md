@@ -6,11 +6,13 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [MTL on various tasks](https://towardsdatascience.com/multitask-learning-teach-your-ai-more-to-make-it-better-dde116c2cd40)
 
 ## Graph-based Machine learning
+* [Dynamic Graph Embedding](https://github.com/woojeongjin/dynamic-KG)
 * [The Unreasonable Effectiveness of Structure](https://www.youtube.com/watch?v=t4k5LKCpboc)
 * [Object2Vec embedding using SageMaker](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
 * [GraphSage](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
 
-## NLP
+## NLP and Attention
+* [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
 * [BERT](https://jalammar.github.io/illustrated-bert/)
 * [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
 * [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
