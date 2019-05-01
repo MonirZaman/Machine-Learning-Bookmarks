@@ -29,6 +29,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [PDP and LIME](https://towardsdatascience.com/interpretable-ai-or-how-i-learned-to-stop-worrying-and-trust-ai-e61f9e8ee2c2)
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
 * Shapley
+* [Collection of Interpretability tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 ## Bayesian methods
 * [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
