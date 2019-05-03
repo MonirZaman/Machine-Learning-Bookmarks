@@ -41,3 +41,8 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Unusual Autoencoders](https://colinraffel.com/talks/vector2018few.pdf)
 * [WAE](https://github.com/MonirZaman/ICLR-Conference-Insights#wasserstein-auto-encoders-wae)
 * [BigGAN playground](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)
+
+## Kaggle Boiler plate
+* [1](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
+* [2](https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc)
+
