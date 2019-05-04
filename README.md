@@ -37,6 +37,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## Neural network architecture and its applications
 * [ML using Electronic Health Records](https://goku.me/blog/EHR)
 
+## Neural network training
+* [A recipe for training](http://karpathy.github.io/2019/04/25/recipe/)
+
 ## Generative Adversarial Network (GAN)
 * [Unusual Autoencoders](https://colinraffel.com/talks/vector2018few.pdf)
 * [WAE](https://github.com/MonirZaman/ICLR-Conference-Insights#wasserstein-auto-encoders-wae)
