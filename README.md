@@ -11,6 +11,10 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Object2Vec embedding using SageMaker](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
 * [GraphSage](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
 
+## Privacy in Machine learning
+* [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
+* [Tensorflow Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
+
 ## NLP and Attention
 * [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
 * [BERT](https://jalammar.github.io/illustrated-bert/)
@@ -48,4 +52,6 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## Kaggle Boiler plate
 * [1](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 * [2](https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc)
+
+
 
