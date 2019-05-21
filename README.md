@@ -15,6 +15,10 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
 * [Tensorflow Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
+## AutoML
+* [ProxylessNAS](https://arxiv.org/abs/1812.00332)
+* [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)
+
 ## NLP and Attention
 * [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
 * [BERT](https://jalammar.github.io/illustrated-bert/)
