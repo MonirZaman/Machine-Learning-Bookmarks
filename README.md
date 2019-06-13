@@ -2,6 +2,7 @@
 I am an avid reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
 ## Supervised learning
+* [Multi-task in Earth Quake Prediction](https://www.kaggle.com/dkaraflos/1-geomean-nn-and-6featlgbm-2-259-private-lb)
 * [Multi-task learning](https://medium.com/huggingface/beating-the-state-of-the-art-in-nlp-with-hmtl-b4e1d5c3faf) 
 * [MTL on various tasks](https://towardsdatascience.com/multitask-learning-teach-your-ai-more-to-make-it-better-dde116c2cd40)
 
@@ -54,8 +55,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [BigGAN playground](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)
 
 ## Kaggle Boiler plate
-* [1](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
-* [2](https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc)
+* [Time series prediction - Earth quake dataset](https://www.kaggle.com/dkaraflos/1-geomean-nn-and-6featlgbm-2-259-private-lb)
+* [2](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
+* [3](https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc)
 
 
 
