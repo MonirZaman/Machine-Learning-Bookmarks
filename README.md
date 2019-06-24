@@ -30,6 +30,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
 
+## Anomaly Detection
+* [Outlier forest](https://www.youtube.com/watch?v=RyFQXQf4w4w)
+
 ## Model diagnosis
 * [Uber Manifold](https://eng.uber.com/manifold/)
 
