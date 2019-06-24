@@ -31,7 +31,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
 
 ## Anomaly Detection
-* [Outlier forest](https://www.youtube.com/watch?v=RyFQXQf4w4w)
+* [Isolation forest](https://www.youtube.com/watch?v=RyFQXQf4w4w)
 
 ## Model diagnosis
 * [Uber Manifold](https://eng.uber.com/manifold/)
