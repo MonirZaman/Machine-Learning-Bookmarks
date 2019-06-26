@@ -20,7 +20,8 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [ProxylessNAS](https://arxiv.org/abs/1812.00332)
 * [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)
 
-## NLP and Attention
+## Language model and Attention
+* [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
 * [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
 * [BERT](https://jalammar.github.io/illustrated-bert/)
 * [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
