@@ -1,6 +1,9 @@
 # Machine Learning Reading
 I am an avid reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
+## ML cheat sheets
+* [Mathematics](https://avantlive.wordpress.com/2019/04/29/fathoming-the-deep-in-deep-learning-a-practical-approach/)
+
 ## Supervised learning
 * [Multi-task in Earth Quake Prediction](https://www.kaggle.com/dkaraflos/1-geomean-nn-and-6featlgbm-2-259-private-lb)
 * [Multi-task learning](https://medium.com/huggingface/beating-the-state-of-the-art-in-nlp-with-hmtl-b4e1d5c3faf) 
