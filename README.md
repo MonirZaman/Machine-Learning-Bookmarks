@@ -19,7 +19,8 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
 * [Tensorflow Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
-## AutoML
+## AutoML and Neural Architecture Search
+* [EfficientNet](https://arxiv.org/pdf/1905.11946v2.pdf)
 * [ProxylessNAS](https://arxiv.org/abs/1812.00332)
 * [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)
 
