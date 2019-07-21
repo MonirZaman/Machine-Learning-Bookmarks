@@ -45,6 +45,8 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Uber Manifold](https://eng.uber.com/manifold/)
 
 ## Interpretation of ML Model Output
+* [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/rulefit.html)
+* [Monotonic Gradient Boosting Machine](https://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html)
 * [DeepLIFT](https://github.com/kundajelab/deeplift)
 * [PDP and LIME](https://towardsdatascience.com/interpretable-ai-or-how-i-learned-to-stop-worrying-and-trust-ai-e61f9e8ee2c2)
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
