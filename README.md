@@ -25,6 +25,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)
 
 ## Language model and Attention
+* [Breaking down BERT](https://towardsdatascience.com/breaking-bert-down-430461f60efb)
 * [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
 * [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
 * [BERT](https://jalammar.github.io/illustrated-bert/)
