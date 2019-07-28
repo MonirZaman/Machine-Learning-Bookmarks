@@ -47,6 +47,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## Interpretation of ML Model Output
 * [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/rulefit.html)
 * [Monotonic Gradient Boosting Machine](https://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html)
+* [Monotonic Logistic Regression](https://www.microsoft.com/security/blog/2019/07/25/new-machine-learning-model-sifts-through-the-good-to-unearth-the-bad-in-evasive-malware/)
 * [DeepLIFT](https://github.com/kundajelab/deeplift)
 * [PDP and LIME](https://towardsdatascience.com/interpretable-ai-or-how-i-learned-to-stop-worrying-and-trust-ai-e61f9e8ee2c2)
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
