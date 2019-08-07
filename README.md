@@ -23,6 +23,8 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [EfficientNet](https://arxiv.org/pdf/1905.11946v2.pdf)
 * [ProxylessNAS](https://arxiv.org/abs/1812.00332)
 * [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)
+  *[Targeted dropout](https://for.ai/blog/targeted-dropout/)
+* [Learning rate finder](https://www.pyimagesearch.com/2019/08/05/keras-learning-rate-finder/)
 
 ## Language model and Attention
 * [Breaking down BERT](https://towardsdatascience.com/breaking-bert-down-430461f60efb)
