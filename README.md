@@ -22,7 +22,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## AutoML and Neural Architecture Search
 * [EfficientNet](https://arxiv.org/pdf/1905.11946v2.pdf)
 * [ProxylessNAS](https://arxiv.org/abs/1812.00332)
-* [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)
+* [Lottery Ticket Hypothesis](https://openreview.net/pdf?id=rJl-b3RcF7)  
   *[Targeted dropout](https://for.ai/blog/targeted-dropout/)
 * [Learning rate finder](https://www.pyimagesearch.com/2019/08/05/keras-learning-rate-finder/)
 
@@ -36,6 +36,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 
 ## NLP Pipeline
 * [Parsing and Entity extraction](https://www.kaggle.com/shivamb/1-bulletin-structuring-engine-cola)
+
+## Recommender Systems
+* [RecSys using Transformer architecture](https://aisc.ai.science/blog/2019/generating-high-fidelity-images)
 
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
