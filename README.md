@@ -40,6 +40,9 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 ## Recommender Systems
 * [RecSys using Transformer architecture](https://aisc.ai.science/blog/2019/generating-high-fidelity-images)
 
+## Dimension reduction
+* [10 tips for dimension reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907)
+
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
