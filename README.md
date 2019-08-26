@@ -27,6 +27,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 * [Learning rate finder](https://www.pyimagesearch.com/2019/08/05/keras-learning-rate-finder/)
 
 ## Language model and Attention
+* [BERT from scratch](http://www.peterbloem.nl/blog/transformers?utm_content=buffer2a7ae&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Breaking down BERT](https://towardsdatascience.com/breaking-bert-down-430461f60efb)
 * [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
 * [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
