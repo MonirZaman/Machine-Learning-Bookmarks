@@ -1,6 +1,11 @@
 # Machine Learning Reading
 I am an avid reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
+## Differential calculus in machine learning
+* [Physics guided NN](https://towardsdatascience.com/physics-guided-neural-networks-pgnns-8fe9dbad9414)
+* [Ordinary differential equation and RESNET](https://www.youtube.com/watch?v=sAvtPr1IGB0&t=379s)
+* [Physics informed Deep learning](https://arxiv.org/abs/1711.10561)
+
 ## ML cheat sheets
 * [Mathematics](https://avantlive.wordpress.com/2019/04/29/fathoming-the-deep-in-deep-learning-a-practical-approach/)
 
