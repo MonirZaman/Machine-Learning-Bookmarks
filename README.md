@@ -45,6 +45,7 @@ I am an avid reader of machine learning blogs and literatures. This page contain
 
 ## Recommender Systems
 * [RecSys using Transformer architecture](https://aisc.ai.science/blog/2019/generating-high-fidelity-images)
+* [Movie Audience Prediction using Deep learning](https://cloud.google.com/blog/products/ai-machine-learning/how-20th-century-fox-uses-ml-to-predict-a-movie-audience)
 
 ## Dimension reduction
 * [10 tips for dimension reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907)
