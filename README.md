@@ -1,5 +1,5 @@
 # Machine Learning Reading
-I am an avid reader of machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
+I like to read machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
 ## Differential calculus in machine learning
 * [Physics guided NN](https://towardsdatascience.com/physics-guided-neural-networks-pgnns-8fe9dbad9414)
