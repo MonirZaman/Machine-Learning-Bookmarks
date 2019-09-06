@@ -40,8 +40,10 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
 * [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
 
-## NLP Pipeline
+## Applied NLP and its Pipeline
+* [NLP and attention to code search](https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/)
 * [Parsing and Entity extraction](https://www.kaggle.com/shivamb/1-bulletin-structuring-engine-cola)
+* [word2vec in Windows defender](https://www.microsoft.com/security/blog/2019/09/03/deep-learning-rises-new-methods-for-detecting-malicious-powershell/)  
 
 ## Recommender Systems
 * [RecSys using Transformer architecture](https://aisc.ai.science/blog/2019/generating-high-fidelity-images)
