@@ -22,6 +22,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 
 ## Privacy in Machine learning
 * [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
+* [Federated learning comics](https://federated.withgoogle.com/#top)
 * [Tensorflow Privacy](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
 
 ## AutoML and Neural Architecture Search
