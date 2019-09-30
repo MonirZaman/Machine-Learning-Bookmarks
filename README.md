@@ -81,6 +81,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 
 ## Neural network training
 * [A recipe for training](http://karpathy.github.io/2019/04/25/recipe/)
+* [Vanishing Gradients](https://towardsdatascience.com/avoiding-the-vanishing-gradients-problem-96183fd03343)
 
 ## Generative Adversarial Network (GAN)
 * [Unusual Autoencoders](https://colinraffel.com/talks/vector2018few.pdf)
