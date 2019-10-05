@@ -1,6 +1,9 @@
 # Machine Learning Reading
 I like to read machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
+## AI for Everyone
+* [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
+
 ## Differential calculus in machine learning
 * [Physics guided NN](https://towardsdatascience.com/physics-guided-neural-networks-pgnns-8fe9dbad9414)
 * [Ordinary differential equation and RESNET](https://www.youtube.com/watch?v=sAvtPr1IGB0&t=379s)
