@@ -79,6 +79,8 @@ I like to read machine learning blogs and literatures. This page contains links 
 ## Bayesian methods
 * [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
 * [Bayesian optimization](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/)
+* [Gaussian Process in Numpy](http://krasserm.github.io/2018/03/19/gaussian-processes/)
+* [Visual exploration of GP](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 ## Neural network architecture and its applications
 * [ML using Electronic Health Records](https://goku.me/blog/EHR)
