@@ -2,6 +2,7 @@
 I like to read machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
 ## AI for Everyone
+* [Interactive introduction to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
 
 ## Differential calculus in machine learning
