@@ -23,6 +23,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [The Unreasonable Effectiveness of Structure](https://www.youtube.com/watch?v=t4k5LKCpboc)
 * [Object2Vec embedding using SageMaker](https://aws.amazon.com/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
 * [GraphSage](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
+* [Graph learning in Tensorflow](https://www.tensorflow.org/neural_structured_learning/tutorials/graph_keras_mlp_cora)
 
 ## Privacy in Machine learning
 * [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
