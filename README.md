@@ -5,6 +5,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Interactive introduction to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Visualizing Neural Networks](https://github.com/tensorspace-team/tensorspace)
 * [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
+* [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
 
 ## Differential calculus in machine learning
 * [Physics guided NN](https://towardsdatascience.com/physics-guided-neural-networks-pgnns-8fe9dbad9414)
