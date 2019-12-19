@@ -63,9 +63,11 @@ I like to read machine learning blogs and literatures. This page contains links 
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
+* [N-Beats](https://mc.ai/n-beats%E2%80%8A-%E2%80%8Abeating-statistical-models-with-neural-nets/)
 
 ## Anomaly Detection
 * [Isolation forest](https://www.youtube.com/watch?v=RyFQXQf4w4w)
+* [Probabilistic anomaly detection in Time Series](https://www.microsoft.com/security/blog/2019/12/18/data-science-for-cybersecurity-a-probabilistic-time-series-model-for-detecting-rdp-inbound-brute-force-attacks/)
 
 ## Model diagnosis
 * [Uber Manifold](https://eng.uber.com/manifold/)
