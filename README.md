@@ -27,6 +27,9 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [GraphSage](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
 * [Graph learning in Tensorflow](https://www.tensorflow.org/neural_structured_learning/tutorials/graph_keras_mlp_cora)
 
+## Pipleline and DevOps
+* [End-to-End ML pipeline using pachyderm and kubeflow](https://www.youtube.com/watch?v=ZEGdSLWdrH0)
+
 ## Privacy in Machine learning
 * [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
 * [Federated learning comics](https://federated.withgoogle.com/#top)
