@@ -73,7 +73,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Probabilistic anomaly detection in Time Series](https://www.microsoft.com/security/blog/2019/12/18/data-science-for-cybersecurity-a-probabilistic-time-series-model-for-detecting-rdp-inbound-brute-force-attacks/)
 
 ## Model diagnosis
-* [Uber Manifold][Blog](https://eng.uber.com/manifold/)[Code](https://github.com/uber/manifold)
+* Uber Manifold [Blog](https://eng.uber.com/manifold/) [Code](https://github.com/uber/manifold)
 
 ## Interpretation of ML Model Output
 * [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/rulefit.html)
