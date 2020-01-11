@@ -66,6 +66,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 ## Time series
 * [Stock price prediction using LSTM](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 * [Forecasting at Uber](https://eng.uber.com/m4-forecasting-competition/)
+* [Kaggler's summary of Deep Learning for Time Series - Wavenet, DeepAR](https://www.youtube.com/watch?v=svNwWSgz2NM)
 * [N-Beats](https://mc.ai/n-beats%E2%80%8A-%E2%80%8Abeating-statistical-models-with-neural-nets/)
 
 ## Anomaly Detection
