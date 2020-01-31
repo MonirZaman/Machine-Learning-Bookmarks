@@ -42,6 +42,16 @@ I like to read machine learning blogs and literatures. This page contains links 
   *[Targeted dropout](https://for.ai/blog/targeted-dropout/)
 * [Learning rate finder](https://www.pyimagesearch.com/2019/08/05/keras-learning-rate-finder/)
 
+## HPO
+* [Ax](https://ax.dev/)
+
+## Bayesian methods
+* [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
+* [Bayesian optimization](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/)
+* [Gaussian processes with example](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
+* [Gaussian Process in Numpy](http://krasserm.github.io/2018/03/19/gaussian-processes/)
+* [Visual exploration of GP](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+
 ## Language model and Attention
 * [BERT from scratch](http://www.peterbloem.nl/blog/transformers?utm_content=buffer2a7ae&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 * [Breaking down BERT](https://towardsdatascience.com/breaking-bert-down-430461f60efb)
@@ -88,13 +98,6 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
 * Shapley
 * [Collection of Interpretability tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability)
-
-## Bayesian methods
-* [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
-* [Bayesian optimization](https://thuijskens.github.io/2016/12/29/bayesian-optimisation/)
-* [Gaussian processes with example](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
-* [Gaussian Process in Numpy](http://krasserm.github.io/2018/03/19/gaussian-processes/)
-* [Visual exploration of GP](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 ## Neural network architecture and its applications
 * [ML using Electronic Health Records](https://goku.me/blog/EHR)
