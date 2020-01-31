@@ -76,6 +76,9 @@ I like to read machine learning blogs and literatures. This page contains links 
 ## Model diagnosis
 * Uber Manifold [Blog](https://eng.uber.com/manifold/) [Code](https://github.com/uber/manifold)
 
+## Visualization
+* [High dimensional data visualization](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/)
+
 ## Interpretation of ML Model Output
 * [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/rulefit.html)
 * [Monotonic Gradient Boosting Machine](https://xgboost.readthedocs.io/en/latest/tutorials/monotonic.html)
