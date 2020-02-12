@@ -29,6 +29,8 @@ I like to read machine learning blogs and literatures. This page contains links 
 
 ## Pipleline and DevOps
 * [End-to-End ML pipeline using pachyderm and kubeflow](https://www.youtube.com/watch?v=ZEGdSLWdrH0)
+* [Katib Hyperparameter Tuning](https://www.youtube.com/watch?v=SlEKca0ikUQ&list=ULi2vHo06-hnE&index=444)
+* [Kubeflow architecture](https://www.kubeflow.org/docs/pipelines/overview/pipelines-overview/)
 
 ## Privacy in Machine learning
 * [PySyft and Federated learning](https://www.youtube.com/watch?v=kAiAo_MCw20)
