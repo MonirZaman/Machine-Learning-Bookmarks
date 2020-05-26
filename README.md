@@ -2,6 +2,7 @@
 I like to read machine learning blogs and literatures. This page contains links to ones that I enjoyed reading.   
 
 ## AI for Everyone
+* [Deep learning notebooks](https://github.com/khipu-ai/practicals-2019)
 * [Interactive introduction to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Visualizing Neural Networks](https://github.com/tensorspace-team/tensorspace)
 * [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
