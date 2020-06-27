@@ -8,6 +8,11 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
 * [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
 
+## Neural network architecture and its applications
+* [Pneumonia classification using X-RAY images](https://www.kaggle.com/amyjang/tensorflow-pneumonia-classification-on-x-rays/notebook#5.-Correct-for-data-imbalance)
+* [ML using Electronic Health Records](https://goku.me/blog/EHR)
+
+
 ## Differential calculus in machine learning
 * [Physics guided NN](https://towardsdatascience.com/physics-guided-neural-networks-pgnns-8fe9dbad9414)
 * [Ordinary differential equation and RESNET](https://www.youtube.com/watch?v=sAvtPr1IGB0&t=379s)
@@ -101,9 +106,6 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Anchors and LIME](https://towardsdatascience.com/anchor-your-model-interpretation-by-anchors-aa4ed7104032)
 * Shapley
 * [Collection of Interpretability tutorials](https://github.com/jphall663/awesome-machine-learning-interpretability)
-
-## Neural network architecture and its applications
-* [ML using Electronic Health Records](https://goku.me/blog/EHR)
 
 ## Neural network training
 * [A recipe for training](http://karpathy.github.io/2019/04/25/recipe/)
