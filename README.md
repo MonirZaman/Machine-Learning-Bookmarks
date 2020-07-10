@@ -8,10 +8,14 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
 * [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
 
-## Neural network architecture and its applications
+## Neural network architecture and its applications in Health
 * [Pneumonia classification using X-RAY images](https://www.kaggle.com/amyjang/tensorflow-pneumonia-classification-on-x-rays/notebook#5.-Correct-for-data-imbalance)
 * [ML using Electronic Health Records](https://goku.me/blog/EHR)
 
+## Reinforcement learning
+* [Introduction from kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
+* [Deep RL Bootcamp 2017 Lab](https://sites.google.com/view/deep-rl-bootcamp/labs)
+* [Khipu AI 2019 Lab](https://colab.research.google.com/github/khipu-ai/practicals-2019/)
 
 ## Differential calculus in machine learning
 * [Physics guided NN](https://towardsdatascience.com/physics-guided-neural-networks-pgnns-8fe9dbad9414)
@@ -115,6 +119,9 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Unusual Autoencoders](https://colinraffel.com/talks/vector2018few.pdf)
 * [WAE](https://github.com/MonirZaman/ICLR-Conference-Insights#wasserstein-auto-encoders-wae)
 * [BigGAN playground](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)
+
+## Robotics
+* [Robotics in Python](https://atsushisakai.github.io/PythonRobotics/)
 
 ## Kaggle Boiler plate
 * [Time series prediction - Earth quake dataset](https://www.kaggle.com/dkaraflos/1-geomean-nn-and-6featlgbm-2-259-private-lb)
