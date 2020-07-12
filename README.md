@@ -63,6 +63,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Gaussian processes with example](https://planspace.org/20181226-gaussian_processes_are_not_so_fancy/)
 * [Gaussian Process in Numpy](http://krasserm.github.io/2018/03/19/gaussian-processes/)
 * [Visual exploration of GP](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+* [Gaussian process with custom kernel](https://medium.com/@ryangriff123/gaussian-process-regression-on-molecules-in-gpflow-ee6fedab2130)
 
 ## Language model and Attention
 * [BERT from scratch](http://www.peterbloem.nl/blog/transformers?utm_content=buffer2a7ae&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
