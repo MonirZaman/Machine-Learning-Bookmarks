@@ -7,6 +7,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Visualizing Neural Networks](https://github.com/tensorspace-team/tensorspace)
 * [Interactive tutorials](https://github.com/stared/interactive-machine-learning-list/blob/master/websites.yaml)
 * [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
+* [Low-resource NLP Bootcamp](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 
 ## Neural network architecture and its applications in Health
 * [Pneumonia classification using X-RAY images](https://www.kaggle.com/amyjang/tensorflow-pneumonia-classification-on-x-rays/notebook#5.-Correct-for-data-imbalance)
