@@ -55,8 +55,10 @@ I like to read machine learning blogs and literatures. This page contains links 
   *[Targeted dropout](https://for.ai/blog/targeted-dropout/)
 * [Learning rate finder](https://www.pyimagesearch.com/2019/08/05/keras-learning-rate-finder/)
 
-## HPO
+## HPO and Optimization
 * [Ax](https://ax.dev/)
+* [Bayesian optimization](https://distill.pub/2020/bayesian-optimization/)
+* [Multi-objective Bayesian optimization](https://gpflowopt.readthedocs.io/en/latest/notebooks/multiobjective.html)
 
 ## Bayesian methods
 * [Uncertainty and confidence interval](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
