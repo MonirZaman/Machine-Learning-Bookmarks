@@ -128,6 +128,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Robotics in Python](https://atsushisakai.github.io/PythonRobotics/)
 
 ## Kaggle Boiler plate
+* [Data science project structure: Cookiecutter data science](https://drivendata.github.io/cookiecutter-data-science/)
 * [Time series prediction - Earth quake dataset](https://www.kaggle.com/dkaraflos/1-geomean-nn-and-6featlgbm-2-259-private-lb)
 * [2](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 * [3](https://towardsdatascience.com/how-to-begin-competing-on-kaggle-bd9b5f32dbbc)
