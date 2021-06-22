@@ -9,6 +9,10 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
 * [Low-resource NLP Bootcamp](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 
+## Cheatsheets
+* [Math](https://github.com/MonirZaman/Machine-Learning-Bookmarks/blob/master/Fathoming%20the%20Deep%20in%20Deep%20Learning%20%E2%80%93%20A%20Practical%20Approach%20%E2%80%93%20thoughtful%20impressions.pdf)
+* [Data science by Aaron Wang](https://github.com/MonirZaman/Machine-Learning-Bookmarks/blob/master/Data_Science_Cheatsheet.pdf)
+
 ## Neural network architecture and its applications in Health
 * [Pneumonia classification using X-RAY images](https://www.kaggle.com/amyjang/tensorflow-pneumonia-classification-on-x-rays/notebook#5.-Correct-for-data-imbalance)
 * [ML using Electronic Health Records](https://goku.me/blog/EHR)
