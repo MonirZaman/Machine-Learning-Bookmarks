@@ -9,6 +9,29 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
 * [Low-resource NLP Bootcamp](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 
+## Neural network acceleration and inference
+* [Applying GPUs and XLA for inference](https://eng.snap.com/applying_gpu_to_snap)
+
+## Language model and Attention
+* [BERT from scratch](http://www.peterbloem.nl/blog/transformers?utm_content=buffer2a7ae&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [Breaking down BERT](https://towardsdatascience.com/breaking-bert-down-430461f60efb)
+* [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
+* [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
+* [BERT](https://jalammar.github.io/illustrated-bert/)
+* [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
+* [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
+
+## Applied NLP and its Pipeline
+* [NLP and attention to code search](https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/)
+* [Parsing and Entity extraction](https://www.kaggle.com/shivamb/1-bulletin-structuring-engine-cola)
+* [word2vec in Windows defender](https://www.microsoft.com/security/blog/2019/09/03/deep-learning-rises-new-methods-for-detecting-malicious-powershell/)  
+
+## Recommender Systems
+* [Feature engineering by NVIDIA team in SIGIR Recommender challenge 2021](https://medium.com/nvidia-merlin/winning-the-sigir-ecommerce-challenge-on-session-based-recommendation-with-transformers-v2-793f6fac2994)
+* [NVIDIA Recsys 2021 Recommender winning solution](https://www.youtube.com/watch?v=a9hmgAtDhkg)
+* [RecSys using Transformer architecture](https://aisc.ai.science/blog/2019/generating-high-fidelity-images)
+* [Movie Audience Prediction using Deep learning](https://cloud.google.com/blog/products/ai-machine-learning/how-20th-century-fox-uses-ml-to-predict-a-movie-audience)
+
 ## Cheatsheets
 * [Math](https://github.com/MonirZaman/Machine-Learning-Bookmarks/blob/master/Fathoming%20the%20Deep%20in%20Deep%20Learning%20%E2%80%93%20A%20Practical%20Approach%20%E2%80%93%20thoughtful%20impressions.pdf)
 * [Data science by Aaron Wang](https://github.com/MonirZaman/Machine-Learning-Bookmarks/blob/master/Data_Science_Cheatsheet.pdf)
@@ -71,24 +94,6 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Gaussian Process in Numpy](http://krasserm.github.io/2018/03/19/gaussian-processes/)
 * [Visual exploration of GP](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [Gaussian process with custom kernel](https://medium.com/@ryangriff123/gaussian-process-regression-on-molecules-in-gpflow-ee6fedab2130)
-
-## Language model and Attention
-* [BERT from scratch](http://www.peterbloem.nl/blog/transformers?utm_content=buffer2a7ae&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
-* [Breaking down BERT](https://towardsdatascience.com/breaking-bert-down-430461f60efb)
-* [MASS](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
-* [Transformer application using Tensorflow](https://www.tensorflow.org/alpha/tutorials/sequences/transformer)
-* [BERT](https://jalammar.github.io/illustrated-bert/)
-* [How to apply BERT](https://www.youtube.com/watch?v=bDxFvr1gpSU)
-* [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
-
-## Applied NLP and its Pipeline
-* [NLP and attention to code search](https://ai.facebook.com/blog/neural-code-search-ml-based-code-search-using-natural-language-queries/)
-* [Parsing and Entity extraction](https://www.kaggle.com/shivamb/1-bulletin-structuring-engine-cola)
-* [word2vec in Windows defender](https://www.microsoft.com/security/blog/2019/09/03/deep-learning-rises-new-methods-for-detecting-malicious-powershell/)  
-
-## Recommender Systems
-* [RecSys using Transformer architecture](https://aisc.ai.science/blog/2019/generating-high-fidelity-images)
-* [Movie Audience Prediction using Deep learning](https://cloud.google.com/blog/products/ai-machine-learning/how-20th-century-fox-uses-ml-to-predict-a-movie-audience)
 
 ## Dimension reduction
 * [10 tips for dimension reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907)
