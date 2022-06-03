@@ -9,6 +9,10 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Build interactive ML app](https://github.com/streamlit/streamlit/tree/develop/examples)
 * [Low-resource NLP Bootcamp](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 
+## ML Interviews
+* [ML interviews by Khang Pham](https://github.com/khangich/machine-learning-interview)
+* [ML interviews by Omar]
+
 ## Neural network acceleration and inference
 * [Applying GPUs and XLA for inference](https://eng.snap.com/applying_gpu_to_snap)
 
