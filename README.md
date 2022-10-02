@@ -99,6 +99,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [Gaussian Process in Numpy](http://krasserm.github.io/2018/03/19/gaussian-processes/)
 * [Visual exploration of GP](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 * [Gaussian process with custom kernel](https://medium.com/@ryangriff123/gaussian-process-regression-on-molecules-in-gpflow-ee6fedab2130)
+* [Gaussian process based clustering to track Alzheimer's progress](https://www.nature.com/articles/s43588-022-00300-6.epdf?sharing_token=ajwzxIr1ExRIy_Nsp-Q5fdRgN0jAjWel9jnR3ZoTv0NdNomCslEWNLvt9Sqns8lGhUos8nxmTGUq3jRLwHYirA97Fsez1V5n8VRvuW1sCHfkFyOQF4lgB-EsT5n61vCXhvX5I7BlLNMdvbJIMBPyVEmd39pRIrLb3D4qxsg_8fk%3D&error=cookies_not_supported&code=08ba298d-6765-4310-bf80-df7ead593ecb)
 
 ## Dimension reduction
 * [10 tips for dimension reduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006907)
