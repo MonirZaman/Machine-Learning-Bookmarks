@@ -1,0 +1,9 @@
+Alexa story creation 
+- planner 
+- generator 
+
+Planner is pretrained language model that 
+generates prompt for the story generator.
+
+It also creates a graph between entities 
+to make generations consistent 
