@@ -14,6 +14,9 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [ML interviews by Khang Pham](https://github.com/khangich/machine-learning-interview)
 * [ML interviews by Omar]
 
+## Stable diffusion 
+* [Google imagen](https://imagen.research.google/video/)
+
 ## Neural network acceleration and inference
 * [Applying GPUs and XLA for inference](https://eng.snap.com/applying_gpu_to_snap)
 
