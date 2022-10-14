@@ -15,6 +15,7 @@ I like to read machine learning blogs and literatures. This page contains links 
 * [ML interviews by Omar]
 
 ## Stable diffusion 
+* [Math for stable diffusion](https://magic-with-latents.github.io/latent/blog.html)
 * [Google imagen](https://imagen.research.google/video/)
 
 ## Neural network acceleration and inference
